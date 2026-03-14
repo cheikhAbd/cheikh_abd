@@ -11,7 +11,14 @@ const skillsData = {
     "TypeScript",
     "Tailwind CSS",
   ],
-  backend: ["Spring Boot", "Django REST API", "Flask API", "Strapi CMS"],
+  backend: [
+    "Spring Boot",
+    "Django REST API",
+    "Flask API",
+    "Strapi CMS",
+    "Next.js API Routes",
+    "Prisma ORM",
+  ],
   database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "Redis"],
   security: [
     "Threat Modeling (STRIDE, OWASP Top 10)",
@@ -27,6 +34,9 @@ const skillsData = {
     "Android Studio",
     "Keycloak",
     "Mux Video",
+    "Clerk",
+    "Neon DB",
+    "Vercel",
   ],
   other: [
     "UML / Merise",

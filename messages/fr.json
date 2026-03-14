@@ -34,13 +34,13 @@
         "link": "https://lynaat.com/#projects"
       },
       {
-        "role": "Développeur Full-stack — El Delil (PFE)",
-        "company": "Lynaat SARL",
-        "location": "Nouakchott, Mauritanie",
-        "period": "Avril 2025 – Novembre 2025",
-        "description": "Développement et sécurisation d'un système de gestion scolaire complet. Analyse des risques, threat modeling (STRIDE, OWASP Top 10), implémentation de contrôles de sécurité et sécurisation des API. Stack : Angular, Spring Boot, Keycloak.",
-        "link": "https://lynaat.com/#projects"
-      },
+  "role": "Développeur Full-stack — El Delil (PFE)",
+  "company": "Lynaat SARL",
+  "location": "Nouakchott, Mauritanie",
+  "period": "Avril 2025 – Novembre 2025",
+  "description": "Développement et sécurisation d'un système de gestion scolaire complet (PFE Master). Analyse des risques, threat modeling (STRIDE, OWASP Top 10), implémentation de contrôles de sécurité et sécurisation des API. Application mobile Flutter pour parents et élèves. Stack : Next.js 15 (frontend + API Routes + Server Actions), Prisma ORM, PostgreSQL (Neon), Clerk (authentification & autorisation), Flutter (mobile), déploiement sur Vercel.",
+  "link": "https://lynaat.com/#projects"
+},
       {
         "role": "Développeur IoT",
         "company": "Tech4IoT",

@@ -38,7 +38,7 @@
         "company": "Lynaat SARL",
         "location": "نواكشوط، موريتانيا",
         "period": "أبريل 2025 – نوفمبر 2025",
-        "description": "تطوير وتأمين نظام إدارة مدرسي متكامل. تحليل المخاطر، نمذجة التهديدات (STRIDE, OWASP Top 10)، تطبيق ضوابط الأمان وتأمين الـ API. Stack: Angular, Spring Boot, Keycloak.",
+        "description": "تطوير وتأمين نظام إدارة مدرسي متكامل (مشروع تخرج الماجستير). تحليل المخاطر، نمذجة التهديدات (STRIDE, OWASP Top 10)، تطبيق ضوابط الأمان وتأمين الـ API. تطبيق موبايل Flutter للآباء والطلاب. Stack: Next.js 15 (frontend + API Routes + Server Actions)، Prisma ORM، PostgreSQL (Neon)، Clerk (المصادقة والتفويض)، Flutter (موبايل)، نشر على Vercel.",
         "link": "https://lynaat.com/#projects"
       },
       {

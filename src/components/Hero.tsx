@@ -45,15 +45,15 @@ export default function Hero() {
               className="p-2 rounded-full bg-muted hover:bg-primary hover:text-primary-foreground transition-colors">
               <Twitter size={18} />
             </a>
-            <a href={`https://linkedin.com/in/${social("linkedin")}`} target="_blank" rel="noopener noreferrer"
+            <a href={`https://www.linkedin.com/in/cheikh-abdellahi-355729278/`} target="_blank" rel="noopener noreferrer"
               className="p-2 rounded-full bg-muted hover:bg-primary hover:text-primary-foreground transition-colors">
               <Linkedin size={18} />
             </a>
-            <a href={`https://facebook.com/${social("facebook")}`} target="_blank" rel="noopener noreferrer"
+            <a href={`https://www.facebook.com/share/1GgBwfzzF8/`} target="_blank" rel="noopener noreferrer"
               className="p-2 rounded-full bg-muted hover:bg-primary hover:text-primary-foreground transition-colors">
               <Facebook size={18} />
             </a>
-            <a href="/cv.pdf" download
+            <a href="/CV_ChAbd.pdf" download
               className="flex items-center gap-2 px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm font-medium hover:opacity-90 transition-opacity">
               <Download size={16} />
               {nav("download")}

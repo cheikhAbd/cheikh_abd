@@ -36,8 +36,8 @@ export default function Contact() {
             {[
               { icon: Github, label: `@${social("github")}`, href: `https://github.com/${social("github")}` },
               { icon: Twitter, label: `@${social("twitter")}`, href: `https://twitter.com/${social("twitter")}` },
-              { icon: Linkedin, label: social("linkedin"), href: `https://linkedin.com/in/${social("linkedin")}` },
-              { icon: Facebook, label: social("facebook"), href: `https://facebook.com/${social("facebook")}` },
+              { icon: Linkedin, label: social("linkedin"), href: `https://www.linkedin.com/in/cheikh-abdellahi-355729278/` },
+              { icon: Facebook, label: social("facebook"), href: `https://www.facebook.com/share/1GgBwfzzF8/` },
             ].map(({ icon: Icon, label, href }) => (
               <a key={href} href={href} target="_blank" rel="noopener noreferrer"
                 className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors">

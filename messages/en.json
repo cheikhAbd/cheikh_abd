@@ -38,7 +38,7 @@
         "company": "Lynaat SARL",
         "location": "Nouakchott, Mauritania",
         "period": "April 2025 – November 2025",
-        "description": "Development and security of a complete school management system. Risk analysis, threat modeling (STRIDE, OWASP Top 10), security controls implementation and API hardening. Stack: Angular, Spring Boot, Keycloak.",
+        "description": "Development and security of a complete school management system (Master's final project). Risk analysis, threat modeling (STRIDE, OWASP Top 10), security controls and API hardening. Flutter mobile app for parents and students. Stack: Next.js 15 (frontend + API Routes + Server Actions), Prisma ORM, PostgreSQL (Neon), Clerk (auth), Flutter (mobile), deployed on Vercel.",
         "link": "https://lynaat.com/#projects"
       },
       {
