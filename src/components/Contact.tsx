@@ -50,7 +50,7 @@ export default function Contact() {
       </div>
 
       <p className="text-center text-xs text-muted-foreground mt-16">
-        © {new Date().getFullYear()} Cheikh Abdellahi — Built with Next.js & Tailwind CSS
+        © {new Date().getFullYear()} Cheikh Abdellahi
       </p>
     </section>
   );
