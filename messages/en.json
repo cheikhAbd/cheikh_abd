@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "experience": "Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "download": "Download CV"
+  },
+  "hero": {
+    "name": "Cheikh Abdellahi",
+    "title": "Full-stack Developer",
+    "location": "Nouakchott, Mauritania",
+    "available": "Remote or on-site",
+    "description": "Passionate Full-stack Developer building modern, secure, and performant web and mobile applications."
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "items": [
+      {
+        "role": "Full-stack Developer",
+        "company": "Freelance",
+        "location": "Nouakchott, Mauritania",
+        "period": "February 2026 – March 2026",
+        "description": "Built a multilingual website (Arabic/French/English) with RTL support. Stack: Next.js 15 + TypeScript + Tailwind CSS (frontend) and Strapi 5 (headless CMS). Image gallery, carousel, testimonials, 9+ reusable React components. Deployed on Vercel and Strapi Cloud.",
+        "link": null
+      },
+      {
+        "role": "Full-stack Developer — Lyn-Stream",
+        "company": "Lynaat SARL",
+        "location": "Nouakchott, Mauritania",
+        "period": "October 2025 – February 2026",
+        "description": "Video streaming platform with microservices architecture. Authentication and authorization management (Keycloak), admin dashboard (Next.js): users, categories, and videos management. Stack: Spring Boot, Keycloak, Mux Video, PostgreSQL, Next.js.",
+        "link": "https://lynaat.com/#projects"
+      },
+      {
+        "role": "Full-stack Developer — El Delil (Final Project)",
+        "company": "Lynaat SARL",
+        "location": "Nouakchott, Mauritania",
+        "period": "April 2025 – November 2025",
+        "description": "Development and security of a complete school management system. Risk analysis, threat modeling (STRIDE, OWASP Top 10), security controls implementation and API hardening. Stack: Angular, Spring Boot, Keycloak.",
+        "link": "https://lynaat.com/#projects"
+      },
+      {
+        "role": "IoT Developer",
+        "company": "Tech4IoT",
+        "location": "Technopole El Ghazela, Ariana, Tunisia",
+        "period": "June 2024 – September 2024",
+        "description": "Introduction to machine learning basics. Worked with IoT sensors and Bluetooth/Wi-Fi compatible boards for data collection and transmission.",
+        "link": null
+      },
+      {
+        "role": "Mobile Developer (Flutter)",
+        "company": "NovaVision MR",
+        "location": "Nouakchott, Mauritania",
+        "period": "July 2024 – September 2024",
+        "description": "Flutter and Firebase development, state management with GetX. Team collaboration via Git.",
+        "link": null
+      },
+      {
+        "role": "Intern",
+        "company": "SNIM",
+        "location": "Nouadhibou, Mauritania",
+        "period": "February 2023 – April 2023",
+        "description": "Built an Angular/Spring Boot web application with Keycloak for the IT department.",
+        "link": null
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "degree": "Master's in Networks and Communicating Systems",
+        "school": "FST",
+        "location": "Nouakchott, Mauritania",
+        "period": "November 2023 – October 2025"
+      },
+      {
+        "degree": "Mobile Development Training (Flutter)",
+        "school": "SMART MS",
+        "location": "Nouakchott, Mauritania",
+        "period": "February 2024 – March 2024"
+      },
+      {
+        "degree": "Angular Training",
+        "school": "SMART MS SA",
+        "location": "Nouakchott, Mauritania",
+        "period": "December 2023 – January 2024"
+      },
+      {
+        "degree": "Bachelor's in Development, Administration, Internet & Intranet",
+        "school": "Faculty of Sciences and Techniques",
+        "location": "Nouakchott, Mauritania",
+        "period": "October 2022 – June 2023"
+      },
+      {
+        "degree": "High School Diploma (Mathematics)",
+        "school": "Ecole Annexe",
+        "location": "Nouakchott, Mauritania",
+        "period": "October 2018 – August 2019"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "frontend": "Front-end",
+    "backend": "Back-end",
+    "database": "Database",
+    "security": "Cybersecurity",
+    "tools": "Tools",
+    "other": "Other"
+  },
+  "languages": {
+    "title": "Languages",
+    "items": [
+      { "name": "Arabic", "level": "Native language" },
+      { "name": "French", "level": "Upper intermediate" },
+      { "name": "English", "level": "Intermediate" }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "chabd122@gmail.com",
+    "phone": "+222 49 43 57 49",
+    "location": "Nouakchott, Mauritania"
+  },
+  "social": {
+    "github": "CheikhAbd",
+    "twitter": "chabd122",
+    "linkedin": "Cheikh Abdellahi",
+    "facebook": "Cheikh Brahiym"
+  }
+}

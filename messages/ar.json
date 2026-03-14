@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "experience": "الخبرات",
+    "education": "التعليم",
+    "projects": "المشاريع",
+    "skills": "المهارات",
+    "contact": "التواصل",
+    "download": "تحميل السيرة الذاتية"
+  },
+  "hero": {
+    "name": "الشيخ عبد الله",
+    "title": "مطور Full-stack",
+    "location": "نواكشوط، موريتانيا",
+    "available": "عن بُعد أو حضوري",
+    "description": "مطور Full-stack شغوف ببناء تطبيقات ويب وموبايل حديثة وآمنة وعالية الأداء."
+  },
+  "experience": {
+    "title": "الخبرات المهنية",
+    "items": [
+      {
+        "role": "مطور Full-stack",
+        "company": "مستقل",
+        "location": "نواكشوط، موريتانيا",
+        "period": "فبراير 2026 – مارس 2026",
+        "description": "تطوير موقع متعدد اللغات (عربي/فرنسي/إنجليزي) مع دعم RTL. Stack: Next.js 15 + TypeScript + Tailwind CSS و Strapi 5. معرض صور، كاروسيل، شهادات، 9+ مكونات React قابلة لإعادة الاستخدام. نشر على Vercel و Strapi Cloud.",
+        "link": null
+      },
+      {
+        "role": "مطور Full-stack — Lyn-Stream",
+        "company": "Lynaat SARL",
+        "location": "نواكشوط، موريتانيا",
+        "period": "أكتوبر 2025 – فبراير 2026",
+        "description": "منصة بث فيديو بمعمارية microservices. إدارة المصادقة والتفويض (Keycloak)، لوحة تحكم Next.js: إدارة المستخدمين والفئات والفيديوهات. Stack: Spring Boot, Keycloak, Mux Video, PostgreSQL, Next.js.",
+        "link": "https://lynaat.com/#projects"
+      },
+      {
+        "role": "مطور Full-stack — El Delil (مشروع تخرج)",
+        "company": "Lynaat SARL",
+        "location": "نواكشوط، موريتانيا",
+        "period": "أبريل 2025 – نوفمبر 2025",
+        "description": "تطوير وتأمين نظام إدارة مدرسي متكامل. تحليل المخاطر، نمذجة التهديدات (STRIDE, OWASP Top 10)، تطبيق ضوابط الأمان وتأمين الـ API. Stack: Angular, Spring Boot, Keycloak.",
+        "link": "https://lynaat.com/#projects"
+      },
+      {
+        "role": "مطور IoT",
+        "company": "Tech4IoT",
+        "location": "تكنوبول الغزالة، أريانة، تونس",
+        "period": "يونيو 2024 – سبتمبر 2024",
+        "description": "تعلم أساسيات التعلم الآلي. العمل مع حساسات IoT وبطاقات Bluetooth وWi-Fi لجمع البيانات ونقلها.",
+        "link": null
+      },
+      {
+        "role": "مطور موبايل (Flutter)",
+        "company": "NovaVision MR",
+        "location": "نواكشوط، موريتانيا",
+        "period": "يوليو 2024 – سبتمبر 2024",
+        "description": "تطوير Flutter وFirebase، إدارة الحالة مع GetX. التعاون في الفريق عبر Git.",
+        "link": null
+      },
+      {
+        "role": "متدرب",
+        "company": "SNIM",
+        "location": "نواذيبو، موريتانيا",
+        "period": "فبراير 2023 – أبريل 2023",
+        "description": "تطوير تطبيق ويب Angular/Spring Boot مع Keycloak لقسم الأنظمة المعلوماتية.",
+        "link": null
+      }
+    ]
+  },
+  "education": {
+    "title": "التعليم والتكوين",
+    "items": [
+      {
+        "degree": "ماجستير شبكات وأنظمة الاتصالات",
+        "school": "FST",
+        "location": "نواكشوط، موريتانيا",
+        "period": "نوفمبر 2023 – أكتوبر 2025"
+      },
+      {
+        "degree": "تكوين تطوير موبايل (Flutter)",
+        "school": "SMART MS",
+        "location": "نواكشوط، موريتانيا",
+        "period": "فبراير 2024 – مارس 2024"
+      },
+      {
+        "degree": "تكوين Angular",
+        "school": "SMART MS SA",
+        "location": "نواكشوط، موريتانيا",
+        "period": "ديسمبر 2023 – يناير 2024"
+      },
+      {
+        "degree": "ليسانس تطوير وإدارة الإنترنت والإنترانت",
+        "school": "كلية العلوم والتقنيات",
+        "location": "نواكشوط، موريتانيا",
+        "period": "أكتوبر 2022 – يونيو 2023"
+      },
+      {
+        "degree": "بكالوريا رياضيات",
+        "school": "Ecole Annexe",
+        "location": "نواكشوط، موريتانيا",
+        "period": "أكتوبر 2018 – أغسطس 2019"
+      }
+    ]
+  },
+  "skills": {
+    "title": "المهارات",
+    "frontend": "الواجهة الأمامية",
+    "backend": "الواجهة الخلفية",
+    "database": "قواعد البيانات",
+    "security": "الأمن السيبراني",
+    "tools": "الأدوات",
+    "other": "أخرى"
+  },
+  "languages": {
+    "title": "اللغات",
+    "items": [
+      { "name": "العربية", "level": "اللغة الأم" },
+      { "name": "الفرنسية", "level": "متوسط متقدم" },
+      { "name": "الإنجليزية", "level": "متوسط" }
+    ]
+  },
+  "contact": {
+    "title": "التواصل",
+    "email": "chabd122@gmail.com",
+    "phone": "+222 49 43 57 49",
+    "location": "نواكشوط، موريتانيا"
+  },
+  "social": {
+    "github": "CheikhAbd",
+    "twitter": "chabd122",
+    "linkedin": "Cheikh Abdellahi",
+    "facebook": "Cheikh Brahiym"
+  }
+}
